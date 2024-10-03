@@ -9,7 +9,7 @@ export default function App() {
   return (
     <SafeAreaView style={styles.container}>
       <Text style={styles.text} onPress={handlePress}>
-        Hello wrld
+        YOYO
       </Text>
       <Image
         source={{
